@@ -1,7 +1,2 @@
 const myVar= 'Javascript is amazing';
 console.log(myVar);
-
-const line=['C is fun', 'Python is cool', 'JavaScript is amazing']
-for(i=0; i<line.length; i++){
-    console.log(line[i]);
-}
